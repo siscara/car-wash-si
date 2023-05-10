@@ -94,3 +94,5 @@
         </div>
     </section>
 @endsection
+
+<!-- register -->
